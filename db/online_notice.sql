@@ -5,7 +5,7 @@ START TRANSACTION;
 SET time_zone = "+00:00";
 
 -- Database: `online_notice`
--- Table structure for table `admin`
+-- Table structure for table `admin` 
 
 CREATE TABLE `admin` (
   `admin_id` int(11) NOT NULL,
