@@ -28,7 +28,7 @@ mysqli_query($conn,"insert into notice values('','$v','$sub','$details',now())")
 	</div>
 	
 	
-	
+
 	<div class="row"><p> </p> <p> </p> <p> </p>
 		<div class="col-sm-4">Enter Subject</div>
 		<div class="col-sm-5">
