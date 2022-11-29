@@ -1,18 +1,20 @@
 #ABOUT
+<br>
  The program was developed using PHP, MySQLi, and Javascript.
- Admin can [Username: admin@gmail.com
-            Password: admin]:
-   Login
-   Manage Users
-   Add, Update and Delete  Notice
-   Update Profile
+ <br>
+ 1. Admin can [Username: admin@gmail.com
+ <br>          Password: admin]:            
+   - Login   
+   - Manage Users   
+   - Add, Update and Delete  Notice   
+   - Update Profile   
 
- User can:
-   Register and Login
-   Update Profile
-   View Notice
+ 2. Users can: 
+   - Register and Login   
+   - Update Profile   
+   - View Notice   
    
-#TO RUN
- Open XAMPP to start the Apache and MySQL.
- Drag and drop the source code folder into the XAMPP's "htdocs" directory.
- Browse to http://localhost/Online%20Notice%20Board%20System/ for the user side and http://localhost/Online%20Notice%20Board%20System/admin for the admin side.
+<br>#TO RUN
+ <br> - Open XAMPP to start the Apache and MySQL. 
+ <br> - Drag and drop the source code folder into the XAMPP's "htdocs" directory. 
+ <br> - Browse to http://localhost/Online%20Notice%20Board%20System/ for the user side and http://localhost/Online%20Notice%20Board%20System/admin for the admin side.
