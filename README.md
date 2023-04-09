@@ -1,6 +1,6 @@
 #ABOUT
 <br>
- The program was developed using PHP, MySQLi, and Javascript.
+ The program was developed using PHP, MySQL, and Javascript.
  <br>
  1. Admin can [Username: admin@gmail.com
  <br>          Password: admin]:            
